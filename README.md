@@ -1,2 +1,10 @@
-# badge-roles
-It is a simple project that gives roles according to the badges of the members on the server, enter the role id's and start using it!
+# Auto Badge Roles Discord Bot
+
+Badge Roles is a simple project designed by me to give users roles, based on their Discord badges.
+
+api: DiscordJS, v12.x.x
+Lang: NodeJS 14.x.x
+
+Join my discord server :
+https://discord.gg/23YTkv9t28
+
