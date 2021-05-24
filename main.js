@@ -93,4 +93,4 @@ stableumut. roles.add(partner)
     }
  )
 
-Client.login('token login')
+client.login('token login')
